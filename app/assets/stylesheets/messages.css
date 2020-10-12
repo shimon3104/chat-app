@@ -92,16 +92,13 @@
   overflow: scroll;
 }
 
-
 .message {
   margin: 10px 0;
 }
 
-
 .upper-message{
   display: flex;
 }
-
 
 .message-user {
   color: #434a54;
